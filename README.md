@@ -13,3 +13,12 @@ This is designed using H20 as the backend.
 
 # Completed algorithems
 * XGBOOST Classifier - with f1 & f0point5 scores. 
+
+
+# Things to add
+* XGBOOST Regressor
+* Auto feature Engineering
+ * Featuretools
+ * autofeat 
+* NLP
+
