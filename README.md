@@ -3,7 +3,7 @@ Sample Directory to help kick start a project that loosely follows production gu
 This is designed using H20 as the backend. 
 
 # Steps
-
+* git clone https://github.com/nchaudh03/BlankDSProject
 * Load full data into the data directory
   * Load small sample data into the data/unit_test directory
 * Edit the utils/projectParams.py file with proper cols, col_types, and drops. 
