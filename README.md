@@ -18,7 +18,7 @@ This is designed using H20 as the backend.
 # Things to add
 * XGBOOST Regressor
 * Auto feature Engineering
- * Featuretools
- * autofeat 
+  * Featuretools
+  * autofeat 
 * NLP
 
